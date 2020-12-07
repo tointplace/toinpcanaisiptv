@@ -1,0 +1,834 @@
+#EXTM3U:
+#EXTINF:0 group-title="TV GOBLO HD",
+http://www.vgtvon2.com/Canais/globo1.htm
+#EXTINF:0 group-title="FOX ESPORTS HD",
+https://sportzonline.co/channels/bra/br4.php
+#EXTINF:0 group-title="ESPN BR",
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
+#EXTINF:0 group-title="FOXBR1HD",
+https://sportzonline.co/channels/bra/br4.php
+#EXTINF:0 group-title="TVSPORTV1 ",
+http://www.weltontv.com/Canais/sporttv011.htm
+#EXTINF:0 group-title="ALL SPORTS",
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+#EXTINF:0 group-title="SPORTV2",
+https://redecanaistv.com/assistir-sportv-2-online-24-horas-ao-vivo_6012803d7.html
+#EXTINF:0 group-title="ESPN EXTRA",
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
+#EXTINF:0 group-title="FOX SPORTS S",
+https://megafilmeshd50.top/canais/player.php?canal=foxsports1
+#EXTINF:0 group-title="TV SPORTV 3",
+https://redecanaistv.com/assistir-sportv-3-online-24-horas-ao-vivo_b5ba01607.html
+#EXTINF:0 group-title="CANAL 12",
+http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
+#EXTINF:0 group-title="FOX SPORTS",
+https://megafilmeshd50.top/canais/player.php?canal=foxsports1
+#EXTINF:0 group-title="FOX PREMIUM1",
+http://aovivo.club/assistir-fox-premium-1-ao-vivo/
+#EXTINF:0 group-title="TVEBRASIL",
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w996653042.m3u8
+#EXTINF:0 group-title="DISNEY XD",
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
+#EXTINF:0 group-title="TVCULTURA",
+https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist.m3u8
+#EXTINF:0 group-title="CN3 DINAMAR",
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:0 group-title="ATV",
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:0 group-title="CARTOON NEWTWORK",
+http://www.vgtvon2.com/Canais/cartoon1.htm
+#EXTINF:0 group-title="DISNEY CHANNEL",
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-b.m3u8
+#EXTINF:0 group-title="FUTEMAX COMENBOL",
+http://pfsv.io:80/live/ibqJejmTr5/9Q1kvPkuRn/49104.m3u8
+#EXTINF:0 group-title="TV DIARIO DO SERTAÔ",
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8 
+#EXTINF:0 group-title="CANÇÂO NOVA",
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8?iptv2018?sd=10&rebase=on 
+#EXTINF:0 group-title="NATGEO WILD",
+http://www.vgtvon2.com/Canais/natgeowild1.htm
+#EXTINF:0 group-title="MASTER TV HD",
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8?EDSONSOUSALIST
+#EXTINF:0 group-title="CINE TRIANON TV",
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1589454995.m3u8
+#EXTINF:0 group-title="CLASSIQUETV",
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+#EXTINF:0 group-title="CINE MAIS ART",
+http://162.255.86.122:25461/live/197325047/197325047/615.m3u8
+#EXTINF:0 group-title="ANIMAL PLANET",
+http://www.vgtvon2.com/Canais/animalplanet1.htm
+#EXTINF:0 group-title="TELECINE TBS",
+http://disfruta.net:8000/live/SvwPgLO8wl/38m20WDgBw/37.m3u8
+#EXTINF:0 group-title="DISCOVERY CHENNEL",
+http://www.vgtvon2.com/Canais/discovery1.htm
+#EXTINF:0 group-title="CINE G PREMIER",
+https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w488225164.m3u8
+#EXTINF:0 group-title="KRONOS CINE MOVIE",
+https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="CANALQUE D MAIS TV",
+http://162.255.86.122:25461/live/197325047/197325047/870.m3u8
+#EXTINF:0 group-title="FILMES ONLINE",
+https://livefocamundo.com:8081/8470/index.m3u8
+#EXTINF:0 group-title="TELENOVELAS",
+http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/17032.m3u8
+#EXTINF:0 group-title="TELEMAX",
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:0 group-title="TELECINECULT",
+https://redecanaistv.com/assistir-telecine-cult-online-24-horas-ao-vivo_efbdd89bb.html
+#EXTINF:0 group-title="TELECINETOUCH",
+https://redecanaistv.com/assistir-telecine-touch-online-24-horas-ao-vivo_e06631de7.html
+#EXTINF:0 group-title="TELECINE PREMIUM",
+https://redecanaistv.com/assistir-telecine-premium-online-24-horas-ao-vivo_d5f664391.html
+#EXTINF:0 group-title="ESPN",
+http://www.weltontv.com/Canais/espnbr1.htm
+#EXTINF:0 group-title="ESPN BRASIL",
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
+#EXTINF:0 group-title="CINE K PLUS",
+http://210.210.155.35:80/session/0c338296-303c-11e9-bdab-b82a72d63267/uq2663/h/h08/index2.m3u8
+#EXTINF:0 group-title="CINE RAY ITA",
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0 group-title="CINE TV",
+https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w1759020790.m3u8
+#EXTINF:0 group-title="CINE WESTERN",
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist-480p.m3u8
+#EXTINF:0 group-title="SBT",
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
+#EXTINF:0 group-title="RECORD",
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:0 group-title="FOXSPORTS2",
+http://www.vaisaopaulo.com/Canais/foxsport21.htm
+#EXTINF:0 group-title="FOXSPORT1",
+https://www.futebol4k.com/Canais/foxsport1a.htm
+#EXTINF:0 group-title="FOX SPORTS 2HD",
+http://www.vaisaopaulo.com/Canais/foxsport21.htm
+#EXTINF:0 group-title="FOX SPORTSS",
+https://megafilmeshd50.top/canais/player.php?canal=foxsports1
+#EXTINF:0 group-title="FOX SPORT AGT 2",
+hhttp://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/16965.m3u8
+#EXTINF:0 group-title="DESENHO AO VIVO",
+http://faustinotv.tk/redir.php?acesso=ef857adfcbcc796d4e7a25cf93c16074&usuario=c8876d2aac82be4df1248cafefe86f84
+#EXTINF:0 group-title="CANALFOX 2",
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:0 group-title="NATIONAL GEOGRAPLIC",
+https://redecanaistv.com/assistir-national-geographic-channel-nat-geo-online-24-horas-ao-vivo_b3da04a7e.html
+#EXTINF:0 group-title="GLOBO NEWS",
+https://cometa.top//player3/canais.php?canal=globonews
+#EXTINF:0 group-title="HISTORY 2 HD",
+http://www.vgtvon2.com/Canais/history021.htm
+#EXTINF:0 group-title="ADSPORTV1",
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
+#EXTINF:0 group-title="CINE MAIS",
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:0 group-title="DISCOVERY",
+http://www.vgtvon2.com/Canais/discovery1.htm
+#EXTINF:0 group-title="UFC COMBATE",
+http://www.vgtvon2.com/Canais/ufc1.htm
+#EXTINF:0 group-title="CINE FILMES 2",
+https://video01.kshost.com.br/fabio8255/fabio8255/playlist.m3u8
+#EXTINF:0 group-title="CANAL RECON KIDS",
+https://stmv1.srvif.com/reconsatkids/reconsatkids/playlist-480p.m3u8
+#EXTINF:0 group-title="BAND SPORTS",
+https://megafilmeshd50.top/canais/player.php?canal=bandsports
+#EXTINF:0 group-title="TV SPORTV01",
+https://sportzonline.to/channels/bra/br2.php
+#EXTINF:0 group-title="TV AE",
+http://www.vgtvon2.com/Canais/aee1.htm
+#EXTINF:0 group-title="GLOBO HD",
+https://megafilmeshd50.top/canais/player.php?canal=bobos
+#EXTINF:0 group-title="FOX SPORTS SD",
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/master.m3u8
+#EXTINF:0 group-title="FOX SPORT HD",
+https://www.futebol4k.com/Canais/foxsport1a.htm
+#EXTINF:0 group-title="FOX NEWS 23",
+http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
+#EXTINF:0 group-title="TV SPORTV1",
+http://www.vaisaopaulo.com/Canais/sporttv011.htm
+#EXTINF:0 group-title="CINE 24H",
+https://livefocamundo.com:8081/8650/index.m3u8
+#EXTINF:0 group-title="SPORTV SD ",
+https://megafilmeshd50.top/canais/player.php?canal=sportv1
+#EXTINF:0 group-title="HISTORY CHANNEL",
+http://www.vgtvon2.com/Canais/history011.htm
+#EXTINF:0 group-title="DISNEY JUNIOR",
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+#EXTINF:0 group-title="REDE TV"
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
+#EXTINF:0 group-title="PFC",
+https://sportzonline.to/channels/bra/br1.php
+#EXTINF:0 group-title="PFC2",
+https://tvonlinegratis.ru/pfc/
+#EXTINF:0 group-title="BAND",
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:0 group-title="SPORTV1HD",
+https://megafilmeshd50.top/canais/player.php?canal=sportv1
+#EXTINF:0 group-title="AMAZON SAT",
+http://slrp.sambavideos.sambatech.com:80/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8
+#EXTINF:0 group-title="TVGAZETA",
+https://assistirtvonline.xyz:25463/live/Fla/EMELEC-002/9.m3u8
+#EXTINF:0 group-title="TV BRASIL",
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0 group-title="TV CHAVES",
+http://www.cxtv.com.br/tv-ao-vivo/tv-chaves
+#EXTINF:0 group-title="RECORD NEWS",
+https://canais.gratis/player3/canais.php?canal=recordnews&img=recordnews
+#EXTINF:0 group-title="TV CULTURA",
+http://www.cxtv.com.br/tv-ao-vivo/tv-cultura
+#EXTINF:0 group-title="ALL SPORTS TV ",
+http://www.cxtv.com.br/tv-ao-vivo/all-sports-tv
+#EXTINF:0 group-title="RETRO DESENHOS",
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:0 group-title="REAL MADRID TV",
+http://www.cxtv.com.br/tv-ao-vivo/real-madrid-tv
+#EXTINF:0 group-title="HISTORY",
+https://marte1.azureedge.net/hls1/history.m3u8
+#EXTINF:0 group-title="TV ESPERANÇA",
+http://stmv2.euroti.com.br:1935/16692/16692/live.m3u8
+#EXTINF:0 group-title="CINE ISTV",
+https://stmv.voxtvhd.com.br/istv/istv/chunklist_w263560758.m3u8
+#EXTINF:0 group-title="FILMES CLASSICOS",
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+#EXTINF:0 group-title="TV SPORTV1",
+https://megafilmeshd50.top/canais/player.php?canal=sportv1
+#EXTINF:0 group-title="FUTEBOL AO VIVO 2",
+https://sportzonline.co/channels/bra/br2.php
+#EXTINF:0 group-title="FUTEBOL AO VIVO 3",
+https://sportzonline.co/channels/bra/br4.php
+#EXTINF:0 group-title="FUTEBOL AO VIVO 1",
+https://sportzonline.co/channels/bra/br1.php
+#EXTINF:0 group-title="TV HD7",
+https://sportzonline.to/channels/hd/hd7.php
+#EXTINF:0 group-title="TV HD6",
+https://sportzonline.to/channels/hd/hd6.php
+#EXTINF:0 group-title="TV HD2",
+https://sportzonline.to/channels/hd/hd2.php
+#EXTINF:0 group-title="TV HD1",
+https://sportzonline.to/channels/hd/hd1.php
+#EXTINF:0 group-title="TV HD4",
+https://sportzonline.to/channels/hd/hd4.php
+#EXTINF:0 group-title="TV HD5",
+https://sportzonline.to/channels/hd/hd5.php
+#EXTINF:0 group-title="TV HD8",
+https://sportzonline.co/channels/hd/hd6.php
+#EXTINF:0 group-title="TV HD9",
+https://daddylive.live/embed/stream-9.php
+#EXTINF:0 group-title="TV E",
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8 
+#EXTINF:0 group-title="TV TEE NET",
+http://gerador.starbr.com/player/#http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8
+#EXTINF:0 group-title="TVJSID FILMES",
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:0 group-title="MASTERTV",
+http://gerador.starbr.com/player/#http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+#EXTINF:0 group-title="CINE SKAY",
+http://www.megatvonlinevip.com/canais/2/Cine%20Sky.html
+#EXTINF:0 group-title="BAND NEWS",
+https://canais.gratis/player3/canais.php?canal=bandnews&img=bandnews
+#EXTINF:0 group-title="TV PAI ETERNO HD",
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w922266385.m3u8
+#EXTINF:0 group-title="TV CAPITAL",
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+#EXTINF:0 group-title="TV GLOBO HD",
+https://redecanais.observer//player3/canais.php?canal=boborj
+#EXTINF:0 group-title="TVSPORTS 7",
+https://sportzonline.co/channels/bra/br1.php
+#EXTINF:0 group-title="ESPN 2HD",
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
+#EXTINF:0 group-title="TV JAPI",
+https://5d2c98775bafe.streamlock.net/8220/8220/chunklist.m3u8
+#EXTINF:0 group-title="PREMIERE AO VIVO",
+http://www.futebol4k.com/Canais/premiere4a.htm
+#EXTINF:0 group-title="PREMIERE CLUBES",
+https://megafilmeshd50.top/iptv.php?source=premiereclubes
+#EXTINF:0 group-title="CANAL TV ANIME",
+https://stmv1.srvif.com/reconsatkids/reconsatkids/playlist-480p.m3u8
+#EXTINF:0 group-title="TV RADIO M2o",
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0 group-title="PREMIER2 SD",
+https://megafilmeshd50.top/canais/player.php?canal=premiere2
+#EXTINF:0 group-title="PREMIER2 HD",
+https://megafilmeshd50.top/canais/player.php?canal=premiere2
+#EXTINF:0 group-title="PREMIER3 HD",
+https://megafilmeshd50.top/canais/player.php?canal=premiere3
+#EXTINF:0 group-title="PREMIER3 SD",
+https://megafilmeshd50.top/canais/player.php?canal=premiere3
+#EXTINF:0 group-title="PREMIER4 HD",
+https://www.futebol4k.com/Canais/premiere4a.htm
+#EXTINF:0 group-title="PREMIER4 SD",
+https://www.futebol4k.com/Canais/premiere4a.htm
+#EXTINF:0 group-title="PREMIER5 HD",
+https://www.futebol4k.com/Canais/premiere5a.htm
+#EXTINF:0 group-title="PREMIER5 SD",
+https://www.futebol4k.com/Canais/premiere5a.htm
+#EXTINF:0 group-title="PREMIER6 SD",
+https://www.futebol4k.com/Canais/premiere6a.htm
+#EXTINF:0 group-title="PREMIER7 HD",
+https://redecanaistv.com/assistir-premiere-7-online-24-horas-ao-vivo_85def6bd1.html
+#EXTINF:0 group-title="PREMIER8 HD",
+https://canais.gratis/player3/canais.php?canal=premiereclubes&img=premiereclubes
+#EXTINF:0 group-title="PREMIER8 SD",
+https://canais.gratis/player3/canais.php?canal=premiereclubes&img=premiereclubes
+#EXTINF:0 group-title="CINE PLUS",
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
+#EXTINF:0 group-title="SPORT FUTEMAX",
+https://sportzonline.co/channels/bra/br1.php
+#EXTINF:0 group-title="TVI",
+http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
+#EXTINF:0 group-title="TVI24",
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
+#EXTINF:0 group-title="TV RIO",
+https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio/chunklist_w1175538107.m3u8
+#EXTINF:0 group-title="TV DMAX ESP",
+http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
+#EXTINF:0 group-title="FOX NEWS",
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8
+#EXTINF:0 group-title="AL JAZEERA ",
+http://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+#EXTINF:0 group-title="TV RAY PREMIUM",
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:0 group-title="TV RAY MOVIE",
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0 group-title="SKY SPORT",
+https://sportzonline.co/channels/pt/sporttv2.php
+#EXTINF:0 group-title="RAY SPORT",
+https://1.ip2stream.icu/live/rai_sport_hd/playlist.m3u8
+#EXTINF:0 group-title="SKY CINEMA 24",
+https://1.ip2stream.icu/live/sky_cinema_24_hd/playlist.m3u8
+#EXTINF:0 group-title="AD SPOTS 1",
+https://daddylive.live/embed/stream-3.php
+#EXTINF:0 group-title="AD SPORTS 2",
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0 group-title="TV GAZETA",
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?
+#EXTINF:0 group-title="TV GLOBO SP",
+https://megafilmeshd50.top/canais/player.php?canal=boborj
+#EXTINF:0 group-title="TV ESPN BRASIL",
+http://www.weltontv.com/Canais/espnbr1.htm
+#EXTINF:0 group-title="TV SPORTV SD",
+https://redecanaistv.com/assistir-sportv-online-24-horas-ao-vivo_30439d2e3.html
+#EXTINF:0 group-title="TV FOX SPORTS SD",
+http://www.weltontv.com/Canais/foxsport12.htm
+#EXTINF:0 group-title="TV ALL SPORTS BR 2",
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?
+#EXTINF:0 group-title="TV CINE SKAY 2",
+https://video01.kshost.com.br/fabio8255/fabio8255/playlist.m3u8
+#EXTINF:0 group-title="TV CINE+",
+https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/playlist.m3u8?
+#EXTINF:0 group-title="TV CINE PLUS",
+https://livefocamundo.com:8081/8650/index.m3u8
+#EXTINF:0 group-title="TV APLA",
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
+#EXTINF:0 group-title="TV KIDMAIS",
+http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/live.m3u8
+#EXTINF:0 group-title="TV SO FILMES",
+https://livefocamundo.com:8081/8588/index.m3u8
+#EXTINF:0 group-title="TV CAPITALFILMES",
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+#EXTINF:0 group-title="TELECINE JSID",
+https://livefocamundo.com:8081/8650/index.m3u8
+#EXTINF:0 group-title="SPORTS AO VIVO",
+
+#EXTINF:0 group-title="SPORTS AO VIVO2",
+https://sportzonline.co/channels/bra/br1.php
+#EXTINF:0 group-title="TV FILMES 1",
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:0 group-title="FUTEBOL TV",
+https://sportzonline.co/channels/bra/br3.php
+#EXTINF:0 group-title="FUTEBOL TV2",
+https://www.futebol4k.com/Canais/foxsport1a.htm
+#EXTINF:0 group-title="FUTEBOL TV3",
+https://sportzonline.co/channels/bra/br1.php
+#EXTINF:0 group-title="TV PORTUGAL RTV 2",
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
+#EXTINF:0 group-title="TV HISTORY LAB",
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?
+#EXTINF:0 group-title="TV FILMES",
+https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/playlist-480p.m3u8
+#EXTINF:0 group-title="KURIKOS KIDS ",
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
+#EXTINF:0 group-title="TV CARICA NET",
+https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w873806451.m3u8
+#EXTINF:0 group-title="TV NA ILHA",
+https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist.m3u8
+#EXTINF:0 group-title="TV ARACATI",
+https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="TV CENTRAL",
+https://5b6d86cbca7b3.streamlock.net/redecentraltv/redecentraltv/chunklist_w2070375208.m3u8
+#EXTINF:0 group-title="TV LOCOMOTIVO",
+http://www.toonxtv.net/hls/loco_ch/stream.m3u8
+#EXTINF:0 group-title="TV ALKASS",
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:0 group-title="TV ALKAS2",
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:0 group-title="WARNER CHANNEL",
+http://www.vgtvon2.com/Canais/warner1.htm
+#EXTINF:0 group-title="MAX PRIME",
+http://www.vaisaopaulo.com/Canais/maxprime1.htm
+#EXTINF:0 group-title="MAX UP",
+http://www.vaisaopaulo.com/Canais/maxup1.htm
+#EXTINF:0 group-title="CINEMAX HD",
+http://www.vaisaopaulo.com/Canais/cinemax1.htm
+#EXTINF:0 group-title="STUDIO UNIVERSAL",
+http://www.vgtvon2.com/Canais/studio1.htm
+#EXTINF:0 group-title="UNIVERSAL CHANNE",
+http://www.vgtvon2.com/Canais/universal1.htm
+#EXTINF:0 group-title="TCM",
+http://www.vgtvon2.com/Canais/tcm1.htm
+#EXTINF:0 group-title="PARAMOUNT",
+http://www.vgtvon2.com/Canais/paramount1.htm
+#EXTINF:0 group-title="CINEMAX
+http://www.vgtvon2.com/Canais/cinemax1.htm
+#EXTINF:0 group-title="TLC",
+http://www.vgtvon2.com/Canais/tlc1.htm
+#EXTINF:0 group-title="MEGAPIX",
+http://www.vgtvon2.com/Canais/megapx1.htm
+#EXTINF:0 group-title="SPACE",
+http://www.vgtvon2.com/Canais/space1.htm
+#EXTINF:0 group-title="AMC",
+http://www.vgtvon2.com/Canais/amc1.htm
+#EXTINF:0 group-title="TNT SERIES",
+http://www.vgtvon2.com/Canais/tntserie1.htm
+#EXTINF:0 group-title="TNT",
+http://www.vgtvon2.com/Canais/tnt1.htm
+#EXTINF:0 group-title="FOX LIFE",
+http://www.vgtvon2.com/Canais/foxlife1.htm
+#EXTINF:0 group-title="FOX PREMIUM 2",
+http://www.vgtvon2.com/Canais/tcpremium2.htm
+#EXTINF:0 group-title="FOX PREMIUM 1",
+http://www.vgtvon2.com/Canais/tcpremium1.htm
+#EXTINF:0 group-title="FOX",
+http://www.vgtvon2.com/Canais/fox1.htm
+#EXTINF:0 group-title="SONY",
+https://redecanaistv.com/assistir-canal-sony-online-24-horas-ao-vivo_f9da253fe.html
+#EXTINF:0 group-title="HBO SIGNATURE",
+http://www.vgtvon2.com/Canais/hbosign1.htm
+#EXTINF:0 group-title="HBO FAMILY",
+http://www.vgtvon2.com/Canais/hbofamily1.htm
+#EXTINF:0 group-title="HBO PLUS",
+http://www.vgtvon2.com/Canais/hboplus1.htm
+#EXTINF:0 group-title="HBO2",
+http://www.vgtvon2.com/Canais/hbo021.htm
+#EXTINF:0 group-title="HBO",
+https://redecanaistv.com/assistir-hbo-xtreme-online-24-horas-ao-vivo_8586fbbe2.html
+#EXTINF:0 group-title="TELECINE CULT",
+http://www.vgtvon2.com/Canais/tccult1.htm
+#EXTINF:0 group-title="TELECINE ACTION",
+http://www.vgtvon2.com/Canais/tcaction1.htm
+#EXTINF:0 group-title="TELECINE FUN",
+http://www.vgtvon2.com/Canais/tcfun1.htm
+#EXTINF:0 group-title="DIRECTV SPORTV 2",
+https://daddylive.live/embed/stream-9.php
+#EXTINF:0 group-title="DIRECTV SPORTV+",
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
+#EXTINF:0 group-title="FOX SPORTS ESP",
+http://192.240.120.58/livestream/foxsports1latino.m3u8?token=hEtZWFaYreCvw7zcy2onSw&expires=1564124035
+#EXTINF:0 group-title="FOX SPORTS 3 ESP",
+http://198.255.46.98/livestream/foxsports3.m3u8?token=j_08lOLCelX9aBekUxgYkw&expires=1564124221
+#EXTINF:0 group-title="FOX SPORTS 2 ESP",
+http://23.237.80.42/livestream/foxsports2latino.m3u8?token=AzRqq66OiGM_qhu59FOQaw&expires=1564124146
+#EXTINF:0 group-title="MAX",
+http://www.vaisaopaulo.com/Canais/maxhd1.htm
+#EXTINF:0 group-title="FX",
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
+#EXTINF:0 group-title="Sky Cinema Comedy HD",
+http://fpro.webvps.de:25443/Ha5AzfuxXU/aPMRumGDTM/30985
+#EXTINF:0 group-title="Sky Cinema Action HD",
+http://fpro.webvps.de:25443/Ha5AzfuxXU/aPMRumGDTM/30986
+#EXTINF:0 group-title="RETRO TV",
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0 group-title="TV CELESTIAL MOVIE",
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+#EXTINF:0 group-title="TV CELESTIAL MOVIES",
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:0 group-title="MY CINEMA",
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:0 group-title="CGTN DOCUMENTARY",
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:0 group-title="HOLLYOOD MOVIE",
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0 group-title="HOLLYOOD MOVIE 2",
+https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0 group-title="CINE TV2",
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0 group-title="NOVA CINEMA",
+http://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
+#EXTINF:0 group-title="TV PLIN TQ FILME",
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="TV PLIN TQ FILME 2",
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="TV PLIN TQ FILME 3",
+http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="TV PLIN TQ FILME 4",
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="TV RTHK 31",
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+#EXTINF:0 group-title="TV GONGMAX",
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
+#EXTINF:0 group-title="TV GONG",
+http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
+#EXTINF:0 group-title="LIFETIME",
+https://redecanaistv.com/assistir-lifetime-online-24-horas-ao-vivo_2716fa8f9.html
+#EXTINF:0 group-title="AXN",
+http://www.vgtvon2.com/Canais/axn1.htm
+#EXTINF:0 group-title="TV VIVA",
+http://www.vgtvon2.com/Canais/viva1.htm
+#EXTINF:0 group-title="TELECINE PIPOCA",
+http://www.vgtvon2.com/Canais/tcpipoca1.htm
+#EXTINF:0 group-title="NICKELODEON",
+https://redecanaistv.com/assistir-nickelodeon-nick-online-24-horas-ao-vivo_b88fae88b.html
+#EXTINF:0 group-title="SPACE",
+http://www.vgtvon2.com/Canais/space1.htm
+#EXTINF:0 group-title="MAX PRIME",
+http://www.vgtvon2.com/Canais/maxprime1.htm
+#EXTINF:0 group-title="MAX PRIME HD",
+http://www.vaisaopaulo.com/Canais/maxprime1.htm
+#EXTINF:0 group-title="VIVA HD",
+http://www.vgtvon2.com/Canais/viva1.htm
+#EXTINF:0 group-title="TV GNT",
+http://www.vgtvon2.com/Canais/gnt1.htm
+#EXTINF:0 group-title="TV GOBLOSAT",
+http://www.vgtvon2.com/Canais/globosat1.htm
+#EXTINF:0 group-title="TV GOBLOB",
+https://canais.gratis/player3/canais.php?canal=gloob&img=gloob
+#EXTINF:0 group-title="DISCOVERY SIENCIE",
+http://www.vgtvon2.com/Canais/discoveryscience1.htm
+#EXTINF:0 group-title="DISCOVERY THEATER",
+http://www.vgtvon2.com/Canais/heh1.htm
+#EXTINF:0 group-title="TELECINE TOUCH",
+http://www.vgtvon2.com/Canais/tctouch1.htm
+#EXTINF:0 group-title="MAXPRIME1",
+http://161.0.157.9/PLTV/88888888/224/3221226834/01.m3u8
+#EXTINF:0 group-title="MULTISHOW",
+https://redecanaistv.com/assistir-multishow-online-24-horas-ao-vivo_047ffcc14.html
+#EXTINF:0 group-title="DISCOVERY WORD",
+http://www.vgtvon2.com/Canais/discoveryworld1.htm
+#EXTINF:0 group-title="PREMIER SPORTS 1",
+https://sportzonline.co/channels/hd/hd8.php
+#EXTINF:0 group-title="SKAY SPORTS 2",
+https://sportzonline.co/channels/hd/hd7.php
+#EXTINF:0 group-title="SPORT TV2",
+https://redecanaistv.com/assistir-sportv-2-online-24-horas-ao-vivo_6012803d7.html
+#EXTINF:0 group-title="PREMIER SPORTS",
+https://daddylive.live/embed/stream-1.php
+#EXTINF:0 group-title="SKAY SPORTS TV",
+https://daddylive.live/embed/stream-16.php
+#EXTINF:0 group-title="ELEVEM SPORTS TV",
+https://daddylive.live/embed/stream-72.php
+#EXTINF:0 group-title="FUTEBO TV 2",
+https://sportzonline.co/channels/bra/br2.php
+#EXTINF:0 group-title="PRENIER SPORT TV1",
+https://sportzonline.co/channels/pt/sporttv1.php
+#EXTINF:0 group-title="SKAY SPORTS 1",
+https://sportzonline.co/channels/hd/hd1.php
+#EXTINF:0 group-title="TV FRANCE",
+https://nowagoal.com/embed/ch4.php
+#EXTINF:0 group-title="SKAY SPORTS 3",
+https://sportzonline.co/channels/hd/hd4.php
+#EXTINF:0 group-title="SKAY SPORTS 4",
+https://sportzonline.co/channels/hd/hd5.php
+#EXTINF:0 group-title="TV SPORTV4",
+https://sportzonline.co/channels/pt/sporttv4.php
+#EXTINF:0 group-title="PREMIER BTV",
+https://sportzonline.co/channels/pt/sporttv4.php
+#EXTINF:0 group-title="PREMIER SPORTS 2",
+https://nowagoal.com/embed/sporttv2.php
+#EXTINF:0 group-title="BETV SPORTS HD ",
+https://sportzonline.to/channels/hd/hd5.php
+#EXTINF:0 group-title="TV SPORTZON",
+https://daddylive.live/embed/stream-7.php
+#EXTINF:0 group-title="BEIN SPORTS EXTRA",
+https://daddylive.live/embed/stream-31.php
+#EXTINF:0 group-title="BT SPORTS3",
+https://sportzonline.co/channels/hd/hd2.php
+#EXTINF:0 group-title="TV FILMES ONLINE3",
+https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chunklist_w103434714.m3u8
+#EXTINF:0 group-title="TV FILMES 4",
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+#EXTINF:0 group-title="TV FILMES 5",
+https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8?wowzasessionid=1806863729
+#EXTINF:0 group-title="TV PANTANAL",
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+#EXTINF:0 group-title="UFC",
+https://sportzonline.co/channels/bra/br1.php
+#EXTINF:0 group-title="DISCOVERY TURBO",
+http://www.vgtvon2.com/Canais/turbo1.htm
+#EXTINF:0 group-title="BT SPORT2",
+https://daddylive.live/embed/stream-32.php
+#EXTINF:0 group-title="SPORTV PT",
+https://daddylive.live/embed/stream-75.php
+#EXTINF:0 group-title="TV HD3",
+https://sportzonline.to/channels/pt/sporttv3.php
+#EXTINF:0 group-title="SPORT INTERATIVO PLUS",
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8
+#EXTINF:0 group-title="CINEKURIKOLO",
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
+#EXTINF:0 group-title="SPORTV PT5",
+https://v2.sportzonline.to/channels/pt/sporttv5.php
+#EXTINF:0 group-title="SPORTV PT4",
+https://v2.sportzonline.to/channels/pt/sporttv4.php
+#EXTINF:0 group-title="SPORTV PT3",
+https://v2.sportzonline.to/channels/pt/sporttv3.php
+#EXTINF:0 group-title="TV FILMES E SERIES",
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:0 group-title="FRECUENCIA MUSICA TV",
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 group-title="CINEMA WORLD",
+http://210.210.155.35/uq2663/h/h04/02.m3u8
+#EXTINF:0 group-title="TELENORD",
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:0 group-title="TELENORD2",
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:0 group-title="TSN ITA",
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+#EXTINF:0 group-title="ANIME PLUS",
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:0 group-title="ZTV",
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:0 group-title="TV CARIOCA",
+https://5d2c98775bafe.streamlock.net/8180/8180/playlist.m3u8
+#EXTINF:0 group-title="CINE CHENNEL8",
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+#EXTINF:0 group-title="CLASSIC CINE",
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:0 group-title="CONTV",
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:0 group-title="CORFUTV",
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:0 group-title="ANTV ITA",
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
+#EXTINF:0 group-title="ABUDHABI SPORTS4",
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:0 group-title="ABUDHABI SPORTS3",
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:0 group-title="ALKASS SPORTS1",
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:0 group-title="APLAHTV",
+https://alphalive-i.akamaihd.net/hls/live/682300/live/high/prog_index.m3u8
+#EXTINF:0 group-title="CENTRALTV",
+http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+#EXTINF:0 group-title="TV8 NEW",
+https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
+#EXTINF:0 group-title="TV YEEAAH",
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:0 group-title="TVM",
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:0 group-title="ANGIANGTV",
+http://vietcago.net/vstv/angiangtv1.m3u8
+#EXTINF:0 group-title="BFM PARIS",
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+#EXTINF:0 group-title="ITV",
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="TV REDE MÂO",
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="TV ONLINE",
+https://livefocamundo.com:8081/8588/index.m3u8
+#EXTINF:0 group-title="TVE",
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0 group-title="TV METROLE",
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1293475192.m3u8
+#EXTINF:0 group-title="DESENHO ANIMADOS",
+https://stmv6.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
+#EXTINF:0 group-title="ARTCINE TV",
+https://5abdf4edae5bf.streamlock.net/tvarthdtv/tvarthdtv/playlist.m3u8
+#EXTINF:0 group-title="TV DIGITAL BIRIGUI",
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:0 group-title="TV SOL",
+http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
+#EXTINF:0 group-title="TV CULTURA PARA",
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="TV MANCHETE",
+https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/playlist.m3u8
+#EXTINF:0 group-title="TOONXTV",
+http://www.toonxtv.net/hls/loco_ch/stream.m3u8
+#EXTINF:0 group-title="AZNTV",
+http://animeloving.net/hls/stream.m3u8
+#EXTINF:0 group-title="TV SERIES",
+https://stmv4.srvstm.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:0 group-title="HBO MUNDI",
+http://www.vgtvon2.com/Canais/hbomundi1.htm
+#EXTINF:0 group-title="HBO POP",
+http://www.vgtvon2.com/Canais/hbopop1.htm
+#EXTINF:0 group-title="HBO XTREME",
+http://www.vgtvon2.com/Canais/hboxtreme1.htm
+#EXTINF:0 group-title="LONDRINA TV",
+https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist_w208920914.m3u8
+#EXTINF:0 group-title="CANAL 29TV",
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w845606034.m3u8
+#EXTINF:0 group-title="TV MANCHETE2",
+https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/chunklist_w1483881533.m3u8
+#EXTINF:0 group-title="MULTIVISION TV",
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8
+#EXTINF:0 group-title="DOVE CHENNETV",
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:0 group-title="ESPERIA TV18",
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 group-title="EXTREMA TV",
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 group-title="SUMMERR TV",
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8?fluxustv.m3u8
+#EXTINF:0 group-title="WOW TV",
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:0 group-title="TELESUR TV",
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0 group-title="VIN TV",
+https://5b7f3c45ab7c2.streamlock.net/8044/ngrp:8044/chunklist_w1675460408_b2007040.m3u8
+#EXTINF:0 group-title="TV ARACATI SD",
+https://livefocamundo.com:8081/8148/index.m3u8
+#EXTINF:0 group-title="TV MON HD",
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:0 group-title="TV MAX",
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+#EXTINF:0 group-title="Kpop TV",
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
+#EXTINF:0 group-title="PP TV",
+https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/playlist.m3u8
+#EXTINF:0 group-title="TV NATAL",
+http://tvnatal.ddns.net:1935/vmix/myStream/playlist.m3u8
+#EXTINF:0 group-title="TV MEGA CINE",
+https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8
+#EXTINF:0 group-title="CLASSIQUETV2",
+https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
+#EXTINF:0 group-title="ISTV2",
+https://stmv.voxtvhd.com.br/istv/istv/playlist-640p.m3u8
+#EXTINF:0 group-title="JOGOS AO VIVO1",
+https://sportzonline.co/channels/bra/br1.php
+#EXTINF:0 group-title="JOGOS AO VIVO2",
+https://sportzonline.co/channels/bra/br4.php
+#EXTINF:0 group-title="JOGOS AO VIVO3",
+https://sportzonline.co/channels/bra/br3.php
+#EXTINF:0 group-title="JOGOS AO VIVO4",
+https://sportzonline.co/channels/hd/hd5.php
+#EXTINF:0 group-title="JOGOS AO VIVO5",
+https://megafilmeshd50.top/iptv.php?source=foxsports1
+#EXTINF:0 group-title="JOGOS AO VIVO6",
+https://megafilmeshd50.top/iptv.php?source=espnbrasil
+#EXTINF:0 group-title="JOGOS AO VIVO7",
+https://www.futebol4k.com/Canais/premiere1a.htm
+#EXTINF:0 group-title="JOGOS AO VIVO8",
+http://www.futebol4k.com/Canais/premiere4a.htm
+#EXTINF:0 group-title="JOGOS AO VIVO9",
+https://sportzonline.to/channels/hd/hd5.php
+#EXTINF:0 group-title="JOGOS AO VIVO10",
+https://www.futebol4k.com/Canais/sportv1a.htm
+#EXTINF:0 group-title="REDE VIDA TV",
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+#EXTINF:0 group-title="RETRO PLUS TV",
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="RETRO PLUS TV2",
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="RTN TV",
+http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8
+#EXTINF:0 group-title="SBS PLUS TV",
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:0 group-title="EUROSPORTVS",
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
+#EXTINF:0 group-title="TV CINEC",
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
+#EXTINF:0 group-title="CBTV",
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp1/chunks.m3u8?
+#EXTINF:0 group-title="TV 538",
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
+#EXTINF:0 group-title="TV MAIS",
+https://596639ebdd89b.streamlock.net/8040/8040/chunklist_w1411483372.m3u8
+#EXTINF:0 group-title="VALE TV",
+https://cdn-valetv.ciclano.io:1443/valetv/valetv/chunklist_w910760720.m3u8
+#EXTINF:0 group-title="TV MXHDAR",
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+#EXTINF:0 group-title="TV AHD",
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
+#EXTINF:0 group-title="TV TFX",
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:0 group-title="TVONE",
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:0 group-title="FILMONTV",
+https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8
+#EXTINF:0 group-title="TV MBC",
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
+#EXTINF:0 group-title="DUBAI SPORTVS 3",
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:0 group-title="DUBAI SPORTVS1",
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:0 group-title="DUBAI SPORTVS4",
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8
+#EXTINF:0 group-title="BAHRAIN SPORTVS",
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w375135708.m3u8
+#EXTINF:0 group-title="ABU DHABI SPORTS4",
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w375135708.m3u8
+#EXTINF:0 group-title="ABU DHABI SPORTVS3",
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 group-title="ABU DHABI SPORTVS2",
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 group-title="ABU DHABI SPORTVS1",
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8
+#EXTINF:0 group-title="ABU DHABI SPORTVS",
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8
+#EXTINF:0 group-title="TV AJYAL",
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="ADTV",
+http://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 group-title="TV TFI",
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:0 group-title="TV CGTNSP",
+http://mobioui9.com/player/?id=https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0 group-title="TV4H",
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+#EXTINF:0 group-title="TV2M",
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:0 group-title="TV PLUS SPORTS",
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_360p/chunks.m3u8
+#EXTINF:0 group-title="CLASSICTV USA",
+https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
+#EXTINF:0 group-title="DUST TV",
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:0 group-title="SHETV",
+https://nrpus.bozztv.com/36bay2/gusa-shetv/index.m3u8
+#EXTINF:0 group-title="TV MOVIE KINGDOM",
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:0 group-title="TV PRIME TIME",
+https://nrpus.bozztv.com/36bay2/gusa-ptd/index.m3u8
+#EXTINF:0 group-title="TV CHANNEL PLUS",
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:0 group-title="WEBTV LATINA SAT",
+https://livefocamundo.com:8081/8470/index.m3u8
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+#EXTINF:0 group-title="TV",
+
+
